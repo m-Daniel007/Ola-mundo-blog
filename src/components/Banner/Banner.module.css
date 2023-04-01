@@ -22,14 +22,14 @@
 
 .imagens {
     position: relative;
-    height: 406px;
+    height: 405px;
 }
 
 .imagens > .minhaFoto {
     position: absolute;
     right: 0;
     bottom: 0;
-    width: 18vw;
+    width: 16vw;
     border-radius: 50%;
 }
 
