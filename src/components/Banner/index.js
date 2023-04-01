@@ -1,7 +1,7 @@
 import styles from "./Banner.module.css";
 import React from "react";
 import circuloColorido from "assets/circulo_colorido.png";
-import minhaFoto from 'assets/foto-capa.jpg'
+import minhaFoto from 'assets/sobre_mim.jpg'
 export default function Banner() {
   return (
     <div className={styles.banner}>
